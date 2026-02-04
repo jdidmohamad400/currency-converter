@@ -6,14 +6,7 @@ export default defineConfig({
 
   base: '/currency-converter/',
 
-  server: {
-    port: 5173,
-    open: true
-  },
 
-  build: {
-    outDir: 'dist'
-  }
 })
 
 
